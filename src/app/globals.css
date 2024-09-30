@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.head-overall{
+  background-color: coral;
+  color: bisque;
+}
+
+.head-button{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  color: blue;
+  justify-content: center;
+}
